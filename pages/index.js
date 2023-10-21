@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div className="container" style={{ backgroundColor: '#FFD700' }}>
       <Head>
         <title>Welcome to Divesh's website </title>
         <meta name="description" content="Divesh Anchaliya's Personal Website" />
