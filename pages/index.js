@@ -1,3 +1,4 @@
+
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
@@ -20,7 +21,7 @@ export default function Home() {
         </p>
       </section>
 
-    <section className="skills">
+    <section className="skills"></section>
     
 
       <Footer />
