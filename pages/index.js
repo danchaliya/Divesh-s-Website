@@ -28,7 +28,7 @@ export default function Home() {
       <main>
         <section id="welcome" className="welcome">
           <p>
-            Hello. My name is Divesh Anchaliya. I am a sophmore majoring in Computer Science and Economics at Elon University. I am currently seeking oppurtunities ton apply programming knowledge and gain experience in the field through internships and projects. 
+            Hello. My name is Divesh Anchaliya. I am a sophmore majoring in Computer Science and Economics at Elon University. I am currently seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
           </p>
         </section>
         
