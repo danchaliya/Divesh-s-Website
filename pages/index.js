@@ -16,8 +16,8 @@ export default function Home() {
       <Header title="Divesh Anchaliya | Computer Science" />
 
       {/* Menu */}
-      <nav className="Menu">
-        <ul>
+      <nav>
+        <ul class="Menu">
           <li><a href="#welcome">Welcome</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
