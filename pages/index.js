@@ -1,4 +1,3 @@
-
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
@@ -12,17 +11,26 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-  
       <Header title="Divesh Anchaliya" />
 
+      {/* Menu */}
+      <nav>
+        <ul>
+          <li><a href="#intro">Welcome Page</a></li>
+          <li><a href="#skills">Who I Am</a></li>
+          <li><a href="#projects">What I Do</a></li>
+          <li><a href="#contact">Get In Touch</a></li>
+        </ul>
+      </nav>
+
       <main>
-        <section className="intro">
+        <section id="intro" className="intro">
           <p>
             Hello! I'm Divesh, a passionate web developer specializing in frontend technologies and design. I love creating interactive and responsive web applications.
           </p>
         </section>
         
-        <section className="skills">
+        <section id="skills" className="skills">
           <h2>Skills</h2>
           <ul>
             <li>React & Next.js</li>
@@ -34,7 +42,7 @@ export default function Home() {
           </ul>
         </section>
 
-        <section className="projects">
+        <section id="projects" className="projects">
           <h2>Recent Projects</h2>
           <div className="project-card">
             <h3>Project 1</h3>
@@ -46,7 +54,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="contact">
+        <section id="contact" className="contact">
           <h2>Contact Me</h2>
           <p>Feel free to reach out if you have questions or just want to chat! Email me at: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></p>
         </section>
@@ -56,3 +64,4 @@ export default function Home() {
     </div>
   )
 }
+
