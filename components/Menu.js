@@ -1,10 +1,10 @@
 export default function Menu() {
     return (
         <nav className="menu">
-            <a href="#welcome">Welcome</a>
-            <a href="#whoiam">Who I am</a>
-            <a href="#whatido">What I do</a>
-            <a href="#getintouch">Get in Touch</a>
+            <a href="#intro">Welcome</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
         </nav>
     );
 }
