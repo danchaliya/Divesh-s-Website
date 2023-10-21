@@ -17,7 +17,7 @@ export default function Home() {
       <main>
         <Header title="Divesh Anchaliya" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hi. My name is Divesh Anchaliya and Welcome to my website. Here you will find an aboutme page, a reume page, a projects page and a contact information page. 
         </p>
       </section>
 
