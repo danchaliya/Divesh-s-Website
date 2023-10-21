@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header title="Divesh Anchaliya" />
+      <Header title="Divesh Anchaliya | Computer Science" />
 
       {/* Menu */}
       <nav className="Menu">
@@ -28,7 +28,7 @@ export default function Home() {
       <main>
         <section id="welcome" className="welcome">
           <p>
-            Hello! I'm Divesh, a passionate web developer specializing in frontend technologies and design. I love creating interactive and responsive web applications.
+            Hello. My name is Divesh Anchaliya. I am a sophmore majoring in Computer Science and Economics at Elon University. I am currently seeking oppurtunities ton apply programming knowledge and gain experience in the field through internships and projects. 
           </p>
         </section>
         
