@@ -18,7 +18,7 @@ export default function Home() {
       {/* Menu */}
       <nav>
         <ul>
-          <li><a href="#intro">Welcome Page</a></li>
+          <li><a href="#welcome">Welcome Page</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -26,7 +26,7 @@ export default function Home() {
       </nav>
 
       <main>
-        <section id="intro" className="intro">
+        <section id="welcome" className="welcome">
           <p>
             Hello! I'm Divesh, a passionate web developer specializing in frontend technologies and design. I love creating interactive and responsive web applications.
           </p>
