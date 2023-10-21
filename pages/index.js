@@ -64,6 +64,7 @@ export default function Home() {
         <section id="contact" className="contact">
           <h2>Contact Me</h2>
           <p>Feel free to reach out if you have questions or just want to chat! Email me at: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></p>
+          <p>Phone: 919-397-8162</p>
         </section>
       </main>
 
