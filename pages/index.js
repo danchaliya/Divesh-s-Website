@@ -12,22 +12,47 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      
-    
-      <main>
-        <Header title="Divesh Anchaliya" />
-        <p className="description">
-          Hi. My name is Divesh Anchaliya and Welcome to my website. Here you will find an aboutme page, a reume page, a projects page and a contact information page. 
-        </p>
-      
-  </main>
+  
+      <Header title="Divesh Anchaliya" />
 
-    <section className="skills"></section>
-    
+      <main>
+        <section className="intro">
+          <p>
+            Hello! I'm Divesh, a passionate web developer specializing in frontend technologies and design. I love creating interactive and responsive web applications.
+          </p>
+        </section>
+        
+        <section className="skills">
+          <h2>Skills</h2>
+          <ul>
+            <li>React & Next.js</li>
+            <li>JavaScript & TypeScript</li>
+            <li>Node.js</li>
+            <li>CSS & SASS</li>
+            <li>Web Design</li>
+            <li>API Integrations</li>
+          </ul>
+        </section>
+
+        <section className="projects">
+          <h2>Recent Projects</h2>
+          <div className="project-card">
+            <h3>Project 1</h3>
+            <p>Description of the first project, highlighting its features and technologies used.</p>
+          </div>
+          <div className="project-card">
+            <h3>Project 2</h3>
+            <p>Description of the second project, highlighting its features and technologies used.</p>
+          </div>
+        </section>
+
+        <section className="contact">
+          <h2>Contact Me</h2>
+          <p>Feel free to reach out if you have questions or just want to chat! Email me at: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></p>
+        </section>
+      </main>
 
       <Footer />
     </div>
-
-  
   )
 }
