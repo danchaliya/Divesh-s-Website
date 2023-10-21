@@ -35,11 +35,16 @@ export default function Home() {
         <section id="skills" className="skills">
           <h2>Skills</h2>
           <ul>
-            <li>React & Next.js</li>
-            <li>JavaScript & TypeScript</li>
-            <li>Node.js</li>
-            <li>CSS & SASS</li>
-            <li>Web Design</li>
+            <li>Python</li>
+            <li>Java</li>   
+            <li>Go</li> 
+            <li>JavaScript</li>            
+            <li>TypeScript</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Node.js</li>            
+            <li>React</li>
+            <li>Flask</li>
             <li>API Integrations</li>
           </ul>
         </section>
