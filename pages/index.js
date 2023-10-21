@@ -16,9 +16,9 @@ export default function Home() {
       <Header title="Divesh Anchaliya" />
 
       {/* Menu */}
-      <nav>
+      <nav className="Menu">
         <ul>
-          <li><a href="#welcome">Welcome Page</a></li>
+          <li><a href="#welcome">Welcome</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
