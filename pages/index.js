@@ -19,9 +19,9 @@ export default function Home() {
       <nav>
         <ul>
           <li><a href="#intro">Welcome Page</a></li>
-          <li><a href="#skills">Who I Am</a></li>
-          <li><a href="#projects">What I Do</a></li>
-          <li><a href="#contact">Get In Touch</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
 
