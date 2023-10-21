@@ -19,7 +19,7 @@ export default function Home() {
         <p className="description">
           Hi. My name is Divesh Anchaliya and Welcome to my website. Here you will find an aboutme page, a reume page, a projects page and a contact information page. 
         </p>
-      </section>
+      
   </main>
 
     <section className="skills"></section>
