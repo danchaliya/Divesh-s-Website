@@ -28,7 +28,7 @@ export default function Home() {
       <main>
         <section id="welcome" className="welcome">
           <p>
-            Hello. My name is Divesh Anchaliya. I am a sophmore majoring in Computer Science and Economics at Elon University. I am currently seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
+            Hello. My name is Divesh Anchaliya. I am a sophomore majoring in Computer Science and Pure Mathematics at Elon University. I am currently seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
           </p>
         </section>
         
@@ -52,11 +52,13 @@ export default function Home() {
         <section id="projects" className="projects">
           <h2>Recent Projects</h2>
           <div className="project-card">
-            <h3>Project 1</h3>
-            <p>Description of the first project, highlighting its features and technologies used.</p>
+            <h3>Project 1: Elon Open Data Service(ODS)</h3>
+            <p>Built an API for students at Elon which extracts Data from Elon Servers regarding class schedules, building times, dining hall menus and allows student developers to build an application using the API to gather data from Elon's Servers
+Created a design document that outlined the steps needed to build the API and included specific endpoints for the API to retrieve information
+Worked on writing code that would authenticate users through the use of SAML Authentication and the use of Cookies.</p>
           </div>
           <div className="project-card">
-            <h3>Project 2</h3>
+            <h3>Project 2:KiddyKam </h3>
             <p>Description of the second project, highlighting its features and technologies used.</p>
           </div>
         </section>
