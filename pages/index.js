@@ -86,7 +86,7 @@ Helped incoporate the use of MongoDB into the backend</p>
           <h2>Contact Me</h2>
           <p>Feel free to reach out if you have questions or just want to chat! Email me at: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></p>
           <p>Phone: 919-397-8162</p>
-          <p> LinkedIn: <a href=https://www.linkedin.com/in/mira-martinez-1828591ab/ </p>
+          <p> LinkedIn: <a href="https://www.linkedin.com/in/mira-martinez-1828591ab/">LinkedIn Profile</a>.
         </section>
       </main>
 
