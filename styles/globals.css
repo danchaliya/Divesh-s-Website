@@ -6,7 +6,7 @@ ul.horizontal-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #8AAAE5; /* Dark background for the menu */
+  background-color: linear-gradient(145deg, #ff88e9, #c264fe); /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
   top:50%;
