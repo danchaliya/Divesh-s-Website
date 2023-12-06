@@ -49,15 +49,17 @@ export default function Home() {
           </ul>
         </section>
 
-        <section id="projects" className="projects">
-          <h2>Recent Projects</h2>
-          <div className="project-card">
-            <h3>Project 1: Elon Open Data Service(ODS)</h3>
-            <h4>Software Engineer</h4>
-            <p>Built an API for students at Elon which extracts Data from Elon Servers regarding class schedules, building times, dining hall menus and allows student developers to build an application using the API to gather data from Elon's Servers
-Created a design document that outlined the steps needed to build the API and included specific endpoints for the API to retrieve information
-Worked on writing code that would authenticate users through the use of SAML Authentication and the use of Cookies.</p>
-          </div>
+      <section id="projects" className="projects">
+  <h2>Recent Projects</h2>
+  <div className="project-card">
+    <a href="https://github.com/your-username/your-repository" target="_blank" rel="noopener noreferrer">
+      <h3>Project 1: Elon Open Data Service (ODS)</h3>
+    </a>
+    <h4>Software Engineer</h4>
+    <p>Built an API for students at Elon which extracts Data from Elon Servers regarding class schedules, building times, dining hall menus and allows student developers to build an application using the API to gather data from Elon's Servers
+    Created a design document that outlined the steps needed to build the API and included specific endpoints for the API to retrieve information
+    Worked on writing code that would authenticate users through the use of SAML Authentication and the use of Cookies.</p>
+  </div>
           <div className="project-card">
             <h3>Project 2:KiddyKam </h3>
             <h4>Software Engineer</h4>
