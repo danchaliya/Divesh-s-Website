@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* Menu */}
       <nav class>
-        <ul class="Menu">
+        <ul class="horizontal-menu">
           <li><a href="#welcome">Welcome</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
