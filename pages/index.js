@@ -6,7 +6,7 @@ import Menu from '@components/Menu';
 
 export default function Home() {
   return (
-    <div className="container" style={{ backgroundColor: '#fa71cd' }}>
+    <div className="container" style={{ backgroundColor: 'linear-gradient(145deg, #ff88e9, #c264fe)' }}>
       <Head>
         <title>Welcome to Divesh's website </title>
         <meta name="description" content="Divesh Anchaliya's Personal Website" />
