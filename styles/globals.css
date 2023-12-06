@@ -79,3 +79,19 @@ code {
   justify-content: center;
   align-items: center;
 }
+.bubble-button {
+  padding: 10px 20px;
+  background: linear-gradient(145deg, #ff88e9, #c264fe);
+  border-radius: 30px; /* This will give the bubble effect */
+  color: white;
+  text-decoration: none; /* Removes the underline from the link */
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+  display: inline-block; /* Allows padding and margins to work properly */
+  transition: transform 0.2s; /* Smooth effect for clicking */
+}
+
+.bubble-button:hover {
+  transform: scale(1.05); /* Slightly enlarges the button when hovered */
+}
+
