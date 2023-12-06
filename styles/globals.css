@@ -62,18 +62,3 @@ code {
   justify-content: center;
   align-items: center;
 }
-#welcome {
-  background-color: #FFD700; /* Gold */
-}
-
-#skills {
-  background-color: #FF6347; /* Tomato */
-}
-
-#projects {
-  background-color: #40E0D0; /* Turquoise */
-}
-
-#contact {
-  background-color: #9ACD32; /* YellowGreen */
-}
