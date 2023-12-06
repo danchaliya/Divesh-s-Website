@@ -1,28 +1,44 @@
 html {
   scroll-behavior: smooth;
 }
-.menu {
-    display: flex;
-    list-style-type: none; /* Remove default list styling */
-    padding: 0; /* Remove default padding */
+/* Reset default list styles */
+ul.horizontal-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333; /* Dark background for the menu */
+  overflow: hidden; /* Ensures the menu does not affect surrounding elements */
+  position: fixed; /* Fix the menu at the top of the page */
+  top: 0;
+  width: 100%; /* Menu should span the full width of the viewport */
+  z-index: 1000; /* Ensures the menu stays on top of other elements */
 }
 
-.menu li {
-    margin-right: 20px; /* Spacing between menu items */
+/* Style for each menu item */
+ul.horizontal-menu li {
+  float: left; /* Align menu items horizontally */
 }
 
-.menu li:last-child {
-    margin-right: 0; /* Remove margin for the last item to avoid extra space on the right */
+/* Style for the links in the menu */
+ul.horizontal-menu li a {
+  display: block; /* Structure the link as a block for better click area */
+  color: white; /* Text color */
+  text-align: center; /* Center text within the link */
+  padding: 14px 16px; /* Space around the text */
+  text-decoration: none; /* No underline on the links */
 }
 
-.menu a {
-    text-decoration: none; /* Remove the underline from the links */
-    color: #333; /* Text color */
+/* Style for links on hover */
+ul.horizontal-menu li a:hover {
+  background-color: #ddd; /* Light background on hover */
+  color: black; /* Text color on hover */
 }
 
-.menu a:hover {
-    color: #007BFF; /* Text color on hover */
+/* Style for the current/active menu item */
+ul.horizontal-menu li a.active {
+  background-color: #4CAF50; /* Different background for the active link */
 }
+
 
 
 
