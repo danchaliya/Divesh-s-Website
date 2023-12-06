@@ -9,7 +9,7 @@ ul.horizontal-menu {
   background-color: #ff69b4; /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
-  top: 50px;
+  top: 0px;
   width: 100%; /* Menu should span the full width of the viewport */
   z-index: 1000; /* Ensures the menu stays on top of other elements */
   text-align: center;
