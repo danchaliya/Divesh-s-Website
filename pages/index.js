@@ -28,7 +28,7 @@ export default function Home() {
       <main>
         <section id="welcome" className="welcome">
           <p> Motivated computer science sophomore seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
-           <a href="/https://docs.google.com/document/d/14_sppW_jSBi4qQUKHFRjj-70wWxE8m-5b6XeIjCFcGQ/edit?usp=sharing" target="_blank" className="bubble-button">Download My Resume</a>
+           <a href="https://docs.google.com/document/d/14_sppW_jSBi4qQUKHFRjj-70wWxE8m-5b6XeIjCFcGQ/edit?usp=sharing" target="_blank" className="bubble-button">Download My Resume</a>
           </p>
         </section>
         
