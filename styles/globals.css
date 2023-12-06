@@ -6,10 +6,10 @@ ul.horizontal-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #1D1D1; /* Dark background for the menu */
+  background-color: #000000; /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
-  top: 50%;
+  top:50%;
   left: 50%;
   transform: translate(-50%, -50%);
   top: 0px;
