@@ -27,8 +27,7 @@ export default function Home() {
 
       <main>
         <section id="welcome" className="welcome">
-          <p>
-            Hello. My name is Divesh Anchaliya. I am a sophomore majoring in Computer Science and Pure Mathematics at Elon University. I am currently seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
+          <p> Motivated computer science sophomore seeking opportunities to apply programming knowledge and gain experience in the field through internships and projects. 
           </p>
         </section>
         
