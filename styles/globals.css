@@ -9,6 +9,9 @@ ul.horizontal-menu {
   background-color: #ff69b4; /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   top: 0px;
   width: 100%; /* Menu should span the full width of the viewport */
   z-index: 1000; /* Ensures the menu stays on top of other elements */
@@ -17,7 +20,8 @@ ul.horizontal-menu {
 
 /* Style for each menu item */
 ul.horizontal-menu li {
-  float: left; 
+  display : inline-block;
+  float: none; 
 }
 
 /* Style for the links in the menu */
