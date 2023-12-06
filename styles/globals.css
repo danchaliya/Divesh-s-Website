@@ -17,14 +17,13 @@ ul.horizontal-menu {
 
 /* Style for each menu item */
 ul.horizontal-menu li {
-  display: inline-block;
-  margin-right: -4px;
+  float: left; 
 }
 
 /* Style for the links in the menu */
 ul.horizontal-menu li a {
   display: block; /* Structure the link as a block for better click area */
-  color: white; /* Text color */
+  color: grey; /* Text color */
   text-align: center;/* Center text within the link */
   padding: 14px 16px; /* Space around the text */
   text-decoration: none; /* No underline on the links */
