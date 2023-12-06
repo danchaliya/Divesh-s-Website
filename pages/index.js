@@ -61,18 +61,24 @@ export default function Home() {
     Worked on writing code that would authenticate users through the use of SAML Authentication and the use of Cookies.</p>
   </div>
           <div className="project-card">
-            <h3>Project 2:KiddyKam </h3>
-            <h4>Software Engineer</h4>
-            <p></p>
-          </div>
+  <a href="https://github.com/danchaliya/KiddyKam---PennApps" target="_blank" rel="noopener noreferrer">
+    <h3>Project 2: KiddyKam</h3>
+  </a>
+  <h4>Software Engineer</h4>
+  <p>[Description of the KiddyKam project.]</p>
+</div>
+
         <div className="project-card">
-            <h3>Project 3:HerdsWallet  </h3>
-            <h4> Creator and Software Engineer</h4>
-            <p>Created the idea of a financial tracking app and worked with a team of 4 to create an application in 36 hours for the 2023 Hackabull Hackaton at the University of South Florida.  
-Created the front-end in Java Script and TypeScript
+  <a href="https://github.com/danchaliya/HerdsWallet" target="_blank" rel="noopener noreferrer">
+    <h3>Project 3: HerdsWallet</h3>
+  </a>
+  <h4>Creator and Software Engineer</h4>
+  <p>Created the idea of a financial tracking app and worked with a team of 4 to create an application in 36 hours for the 2023 Hackabull Hackaton at the University of South Florida.  
+Created the front-end in JavaScript and TypeScript
 Helped with routing the backend to the frontend
-Helped incoporate the use of MongoDB into the backend</p>
-          </div>
+Helped incorporate the use of MongoDB into the backend</p>
+</div>
+
   <div className="project-card">
             <h3>Project 4:ZenZone </h3>
             <h4> Creator and Software Engineer</h4>
