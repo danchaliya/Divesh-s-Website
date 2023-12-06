@@ -92,7 +92,7 @@ Helped incoporate the use of MongoDB into the backend</p>
   <button type="submit">Send Message</button>
 </form>
           <p>Gmail: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></p>
-          <p><p>Phone: <a href="tel:+19193978162">919-397-8162</a></p>
+          <p>Phone: <a href="tel:+19193978162">919-397-8162</a></p>
           <p> LinkedIn: <a href="https://www.linkedin.com/in/divesh-anchaliya-1828591ab/">LinkedIn Profile</a></p>
           <p> GitHub: <a href="https://github.com/danchaliya">GithubProfile</a></p>
         </section>
