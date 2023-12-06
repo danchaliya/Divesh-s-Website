@@ -43,6 +43,28 @@ ul.horizontal-menu li a:hover {
 ul.horizontal-menu li a.active {
   background-color: #FFFFFF; /* Different background for the active link */
 }
+/* Style for the underline effect */
+ul.horizontal-menu li a::after {
+  content: ''; /* This is required for the pseudo-element to work */
+  display: block; /* Makes the pseudo-element behave like a block */
+  margin: auto; /* Centers the underline */
+  height: 2px; /* Thickness of the underline */
+  width: 0%; /* Starts with no underline visible */
+  background: transparent; /* Initial background color for the underline */
+  transition: width 0.5s ease, background-color 0.5s ease; /* Smooth transitions for the underline */
+}
+
+/* Extend the underline on hover */
+ul.horizontal-menu li a:hover::after {
+  width: 100%; /* Full width underline on hover */
+  background: #ff88e9; /* Same as the button gradient start color for consistency */
+}
+
+/* Style for the current/active menu item underline */
+ul.horizontal-menu li a.active::after {
+  width: 100%; /* Full width underline for the active item */
+  background: #ff88e9; /* Same as the button gradient start color for consistency */
+}
 
 
 
