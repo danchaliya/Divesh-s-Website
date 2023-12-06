@@ -52,7 +52,7 @@ export default function Home() {
       <section id="projects" className="projects">
   <h2>Recent Projects</h2>
   <div className="project-card">
-    <a href="https://github.com/your-username/your-repository" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/elonsoc/ods" target="_blank" rel="noopener noreferrer">
       <h3>Project 1: Elon Open Data Service (ODS)</h3>
     </a>
     <h4>Software Engineer</h4>
