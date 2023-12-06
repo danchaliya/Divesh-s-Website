@@ -6,7 +6,7 @@ ul.horizontal-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #00FFFF; /* Dark background for the menu */
+  background-color: #8AAAE5; /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
   top:50%;
@@ -41,7 +41,7 @@ ul.horizontal-menu li a:hover {
 
 /* Style for the current/active menu item */
 ul.horizontal-menu li a.active {
-  background-color: #4CAF50; /* Different background for the active link */
+  background-color: #FFFFFF; /* Different background for the active link */
 }
 
 
