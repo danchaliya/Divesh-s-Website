@@ -6,24 +6,26 @@ ul.horizontal-menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333; /* Dark background for the menu */
+  background-color: #ff69b4; /* Dark background for the menu */
   overflow: hidden; /* Ensures the menu does not affect surrounding elements */
   position: fixed; /* Fix the menu at the top of the page */
   top: 0;
   width: 100%; /* Menu should span the full width of the viewport */
   z-index: 1000; /* Ensures the menu stays on top of other elements */
+  text-align: center;
 }
 
 /* Style for each menu item */
 ul.horizontal-menu li {
-  float: left; /* Align menu items horizontally */
+  display: inline-block;
+  margin-right: -4px;
 }
 
 /* Style for the links in the menu */
 ul.horizontal-menu li a {
   display: block; /* Structure the link as a block for better click area */
   color: white; /* Text color */
-  text-align: center; /* Center text within the link */
+  text-align: center;/* Center text within the link */
   padding: 14px 16px; /* Space around the text */
   text-decoration: none; /* No underline on the links */
 }
