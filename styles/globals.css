@@ -42,7 +42,9 @@ ul.horizontal-menu li a.active {
 
 
 
-
+.header {
+  padding-top: 20px; /* Adjust the value as needed */
+}
 
 
 body {
