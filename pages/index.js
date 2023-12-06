@@ -9,7 +9,7 @@ export default function Home() {
     <div className="container" style={{ backgroundColor: 'linear-gradient(to right, #ffafbd, #ffc3a0)' }}>
       <Head>
         <title>Welcome to Divesh's website </title>
-        <meta name="description" content="Divesh Anchaliya's Personal Website" />
+        <meta name="description" content="diveshanchaliya.xyz" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
