@@ -22,6 +22,7 @@ export default function Home() {
           <li><a href="#about">About Me</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
+          <li><a href="#fun-stuff">Fun Stuff</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
@@ -180,6 +181,34 @@ Helped incoporate the use of MongoDB into the backend</p>
           </div>
   
         </section>
+<section id="fun-stuff" className="project-card">
+    <h2>Fun Stuff</h2>
+    
+    <h3>Favorite Foods</h3>
+    <ul>
+      <li><a href="https://cooking.nytimes.com/recipes/1016231-pizza-margherita" target="_blank" rel="noopener noreferrer">Margherita Pizza</a></li>
+      <li><a href="https://www.indianhealthyrecipes.com/chana-masala/" target="_blank" rel="noopener noreferrer">Chana Masala</a></li>
+      <li><a href="https://www.loveandlemons.com/caprese-salad/" target="_blank" rel="noopener noreferrer">Caprese Salad</a></li>
+      <li><a href="https://www.allrecipes.com/recipe/14231/guacamole/" target="_blank" rel="noopener noreferrer">Anything with Avocados</a></li>
+    </ul>
+
+    <h3>Favorite Movies</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=YoHD9XEInc0" target="_blank" rel="noopener noreferrer">Inception</a></li>
+      <li><a href="https://www.youtube.com/watch?v=lB95KLmpLR4" target="_blank" rel="noopener noreferrer">Social Network</a></li>
+      <li><a href="https://www.youtube.com/watch?v=CHekzSiZjrY" target="_blank" rel="noopener noreferrer">Titanic</a></li>
+    </ul>
+
+    <h3>Favorite TV Shows</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=5jY1ecibLYo" target="_blank" rel="noopener noreferrer">Black Mirror</a></li>
+      <li><a href="https://www.youtube.com/watch?v=d6kBeJjTGnY" target="_blank" rel="noopener noreferrer">Hunter x Hunter</a></li>
+      <li><a href="https://www.youtube.com/watch?v=69V__a49xtw" target="_blank" rel="noopener noreferrer">Silicon Valley</a></li>
+    </ul>
+
+    <h3>Favorite Sports</h3>
+    <p>While I enjoy watching a variety of sports, playing tennis is my favorite way to stay active and competitive.</p>
+  </section>
 
         <section id="contact" className="contact">
           <h2>Contact Me</h2>
