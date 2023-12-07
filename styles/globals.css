@@ -23,7 +23,34 @@ ul.horizontal-menu li {
   display : inline-block;
   float: none; 
 }
+.skill-card {
+  background-color: #f5f5f5; /* Light grey background */
+  padding: 20px;
+  margin-bottom: 10px; /* Space between cards */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  text-align: left; /* Align text to the left */
+}
 
+.skill-card h3 {
+  margin-top: 0;
+  color: #0047AB; /* Blue color for the title, adjust as needed */
+}
+
+.skill-card a {
+  text-decoration: none; /* No underline on the link */
+  color: inherit; /* The link color will be the same as the text color */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.skill-card a:hover {
+  color: #ff88e9; /* Color changes when hovered, adjust as needed */
+}
+
+.skill-card p {
+  color: #333; /* Dark grey color for text */
+  font-size: 1rem; /* Standard font size for paragraphs */
+}
 /* Style for the links in the menu */
 ul.horizontal-menu li a {
   display: block; /* Structure the link as a block for better click area */
