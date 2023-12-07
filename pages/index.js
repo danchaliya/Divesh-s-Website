@@ -22,6 +22,7 @@ export default function Home() {
           <li><a href="#about">About Me</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
+          <li><a href="#classes">Classes</a></li>
           <li><a href="#fun-stuff">Fun Stuff</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -210,6 +211,95 @@ Helped incoporate the use of MongoDB into the backend</p>
   <h4>Creator and Software Engineer</h4>
   <p>Coded as part of my Computer Science 2 class at Elon during the fall 2023 semester, this project showcases the implementation of a ranked-choice voting system in Java. The program simulates the voting process, allowing for a more democratic and representative election outcome by enabling voters to rank candidates by preference rather than choosing a single candidate.</p>
 </div>
+<div id="classes">
+<div class="semester-section">
+  <h2>Semester 1 (Fall '22)</h2>
+  <div class="course-card">
+    <a href="[link to BIO 1112 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>BIO 1112: Introductory Cell Biology</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to BIO 113 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>BIO 113: Cell Biology Lab</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to COR 1110 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>COR 1110: The Global Experience</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to ECO 1000 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>ECO 1000: Principles of Economics</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to Elon 1010 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>Elon 1010: The First Year Advising Seminar</h3>
+    </a>
+  </div>
+</div>
+
+<div class="semester-section">
+  <h2>Semester 2 (Spring '23)</h2>
+  <div class="course-card">
+    <a href="[link to CSC 1300 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>CSC 1300: Computer Science 1</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to MTH 1510 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>MTH 1510: Calculus 1</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to POL 1110 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>POL 1110: American Government</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to POL 1610 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>POL 1610: Comparative Politics</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to POL 1410 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>POL 1410: Model United Nations</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to POL 1120 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>POL 1120: North Carolina Student Legislature</h3>
+    </a>
+  </div>
+</div>
+
+<div class="semester-section">
+  <h2>Semester 3 (Fall '23)</h2>
+  <div class="course-card">
+    <a href="[link to CSC 2044 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>CSC 2044: Computer Organization/Architecture</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to CSC 2300 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>CSC 2300: Computer Science 2</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to MTH 2410 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>MTH 2410: Discrete Structures</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to STS 1100 syllabus]" target="_blank" rel="noopener noreferrer">
+      <h3>STS 1100: Intro to Statistical Reasoning</h3>
+    </a>
+  </div>
+  <div class="course-card">
+    <a href="[link to ECO 3130 syllabus]" target="_blank" rel="noopener noreferrer">
+     
 
   
         </section>
