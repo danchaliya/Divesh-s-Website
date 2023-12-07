@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header title="Divesh Anchaliya | Computer Science & Mathematics" />
+      <Header title="Divesh Anchaliya | Computer Science & Mathematics on the Pre-Law track" />
 
       {/* Menu */}
       <nav class>
@@ -41,7 +41,8 @@ export default function Home() {
      <section id="about" className="about">
           <h2>About Me</h2>
           <p>
-            My name is Divesh Anchaliya, and I am a sophomore at Elon University majoring in Computer Science and Mathematics. 
+            My name is Divesh Anchaliya, and I am a sophomore at Elon University majoring in Computer Science and Mathematics on the Pre-Law track.
+            I am aspiring to attend Law School and to specialize in Patent and Intellectual Property Law. 
             I have a passion for coding, solving complex problems, engaging in mathematical research, and playing tennis. 
             I am constantly seeking out new learning opportunities and experiences to further my understanding of technology and its applications.
           </p>
@@ -193,13 +194,23 @@ Helped incorporate the use of MongoDB into the backend</p>
 </div>
 
   <div className="project-card">
+    <a href="https://github.com/danchaliya/ZenZone" target="_blank" rel="noopener noreferrer">
             <h3>Project 4:ZenZone </h3>
+  </a>
             <h4> Creator and Software Engineer</h4>
             <p>Created the idea of a guided meditation app and worked with a team of 4 to create an application in 48 hours
 Created the backend in Java. 
 Helped with routing the backend to the frontend
 Helped incoporate the use of MongoDB into the backend</p>
           </div>
+<div className="project-card">
+  <a href="https://github.com/danchaliya/RankedChoiceVoting" target="_blank" rel="noopener noreferrer">
+    <h3>Project 5: Ranked Choice Voting</h3>
+  </a>
+  <h4>Creator and Software Engineer</h4>
+  <p>Coded as part of my Computer Science 2 class at Elon during the fall 2023 semester, this project showcases the implementation of a ranked-choice voting system in Java. The program simulates the voting process, allowing for a more democratic and representative election outcome by enabling voters to rank candidates by preference rather than choosing a single candidate.</p>
+</div>
+
   
         </section>
 <section id="fun-stuff" className="project-card">
@@ -234,7 +245,8 @@ Helped incoporate the use of MongoDB into the backend</p>
 </ul>
 
     <h3>Favorite Sports</h3>
-    <p>While I enjoy watching a variety of sports, playing tennis is my favorite way to stay active and competitive.</p>
+    <p><p>While I enjoy watching a variety of sports, playing <a href="https://www.tennistv.com/" target="_blank" rel="noopener noreferrer">tennis</a> is my favorite way to stay active and competitive.</p>
+</p>
   </section>
 
         <section id="contact" className="contact">
