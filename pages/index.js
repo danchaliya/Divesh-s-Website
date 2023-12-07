@@ -39,18 +39,93 @@ export default function Home() {
 <section id="skills" className="skills">
   <h2>Skills</h2>
   <ul>
-    <li><a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Python</a></li>
-    <li><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Java</a></li>
-    <li><a href="https://golang.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Go</a></li>
-    <li><a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>JavaScript</a></li>
-    <li><a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>TypeScript</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>CSS</a></li>
-    <li><a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Node.js</a></li>
-    <li><a href="https://reactjs.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>React</a></li>
-    <li><a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Flask</a></li>
-    <li><a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>API Integrations</a></li>
-    <li><a href="https://www.youtube.com/watch?v=bf2LpPr88SQ" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Public Speaking</a></li>
+    <section id="skills" className="skills">
+  <h2>Skills</h2>
+  
+  <div className="skill-card">
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+      <h3>Python</h3>
+    </a>
+    <p>Python is a high-level, interpreted language known for its readability and support for multiple programming paradigms. It's widely used in web development, data science, automation, and more.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
+      <h3>Java</h3>
+    </a>
+    <p>Java is a class-based, object-oriented language that is designed to have as few implementation dependencies as possible, making it a great choice for cross-platform applications.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://golang.org" target="_blank" rel="noopener noreferrer">
+      <h3>Go</h3>
+    </a>
+    <p>Go, or Golang, is a statically typed, compiled programming language designed at Google. It is known for its simplicity, efficiency, and great support for concurrency.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">
+      <h3>JavaScript</h3>
+    </a>
+    <p>JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+      <h3>TypeScript</h3>
+    </a>
+    <p>TypeScript is an open-source language which builds on JavaScript by adding static type definitions, allowing for the development of large-scale applications.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+      <h3>HTML</h3>
+    </a>
+    <p>HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+      <h3>CSS</h3>
+    </a>
+    <p>CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+      <h3>Node.js</h3>
+    </a>
+    <p>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+      <h3>React</h3>
+    </a>
+    <p>React is an open-source, front-end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
+      <h3>Flask</h3>
+    </a>
+    <p>Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries and has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.</p>
+  </div>
+
+  <div className="skill-card">
+    <a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noopener noreferrer">
+      <h3>API Integrations</h3>
+    </a>
+    <p>API integration is the process of creating a means for two or more APIs to communicate with each other. This involves using a programming interface to the extent that it can be used by other software.</p>
+  </div>
+  <div className="skill-card">
+  <a href="https://www.youtube.com/watch?v=bf2LpPr88SQ" target="_blank" rel="noopener noreferrer">
+    <h3>Public Speaking</h3>
+  </a>
+  <p>Public speaking is the process of communicating information to an audience. It is usually done before a large audience, like in school, the workplace, and even in our personal lives.</p>
+</div>
+</section>
+
   </ul>
 </section>
 
