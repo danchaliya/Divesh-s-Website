@@ -93,6 +93,44 @@ ul.horizontal-menu li a.active::after {
   background: #ff88e9; /* Same as the button gradient start color for consistency */
 }
 
+.projects {
+  /* Add any specific styling for the projects section container if needed */
+}
+
+.project-card {
+  background-color: #f5f5f5; /* Light grey background */
+  padding: 20px;
+  margin-bottom: 10px; /* Space between cards */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  text-align: left; /* Align text to the left */
+}
+
+.project-card a {
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* The link color will be the same as the text color */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #0047AB; /* Blue color for the title, adjust as needed */
+}
+
+.project-card h4 {
+  color: #333; /* Dark grey color for the subtitle */
+  font-weight: normal; /* Adjust weight as needed */
+}
+
+.project-card p {
+  color: #333; /* Dark grey color for text */
+  font-size: 1rem; /* Standard font size for paragraphs */
+}
+
+/* You can add :hover effects to the project-card or the links if you like */
+.project-card:hover {
+  background-color: #e8e8e8; /* Slightly lighter on hover */
+}
 
 
 .Header {
