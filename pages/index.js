@@ -19,6 +19,7 @@ export default function Home() {
       <nav class>
         <ul class="horizontal-menu">
           <li><a href="#welcome">Welcome</a></li>
+          <li><a href="#about">About Me</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -35,6 +36,14 @@ export default function Home() {
 
            <a href="https://docs.google.com/document/d/14_sppW_jSBi4qQUKHFRjj-70wWxE8m-5b6XeIjCFcGQ/edit?usp=sharing" target="_blank" className="bubble-button">Download My Resume</a>
           
+        </section>
+     <section id="about" className="about">
+          <h2>About Me</h2>
+          <p>
+            My name is Divesh Anchaliya, and I am a sophomore at Elon University majoring in Computer Science and Mathematics. 
+            I have a passion for coding, solving complex problems, engaging in mathematical research, and playing tennis. 
+            I am constantly seeking out new learning opportunities and experiences to further my understanding of technology and its applications.
+          </p>
         </section>
 <section id="skills" className="skills">
   <h2>Skills</h2>
