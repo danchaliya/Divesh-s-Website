@@ -301,6 +301,7 @@ Helped incoporate the use of MongoDB into the backend</p>
     <h3>ECO 3130: Federal Reserve Challenge</h3>
   </a>
 </div>
+  </div>
   </section>
 <section id="fun-stuff" className="project-card">
     <h2>Fun Stuff</h2>
