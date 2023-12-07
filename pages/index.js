@@ -34,7 +34,7 @@ export default function Home() {
 </p>
 
            <a href="https://docs.google.com/document/d/14_sppW_jSBi4qQUKHFRjj-70wWxE8m-5b6XeIjCFcGQ/edit?usp=sharing" target="_blank" className="bubble-button">Download My Resume</a>
-          </p>
+          
         </section>
         
         <section id="skills" className="skills">
