@@ -299,8 +299,9 @@ Helped incoporate the use of MongoDB into the backend</p>
   </div>
   <div class="course-card">
     <a href="[link to ECO 3130 syllabus]" target="_blank" rel="noopener noreferrer">
-     
-
+     <h3>ECO 3130: Federal Reserve Challenge</h3>
+  </a>
+  </div>
   
         </section>
 <section id="fun-stuff" className="project-card">
