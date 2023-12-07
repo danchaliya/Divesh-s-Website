@@ -257,12 +257,15 @@ Helped incoporate the use of MongoDB into the backend</p>
   <input type="email" id="email" name="email" placeholder="Email" required />
   <textarea id="message" name="message" placeholder="Message" required></textarea>
   <button type="submit">Send Message</button>
-</form>
- <p><strong>Gmail: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></strong></p>
-<p><strong>Phone: <a href="tel:+19193978162">919-397-8162</a></strong></p>
-<p><strong>LinkedIn: <a href="https://www.linkedin.com/in/divesh-anchaliya-1828591ab/">LinkedIn Profile</a></strong></p>
-<p><strong>GitHub: <a href="https://github.com/danchaliya">GithubProfile</a></strong></p>
-<p><strong>LeetCode: <a href="https://leetcode.com/DiveshAnchaliya/">LeetCodeProfile</a></strong></p>
+</form><section className="project-card">
+  <h2>Contact Information</h2>
+  <p><strong>Gmail: <a href="mailto:divesh.nc@gmail.com">divesh.nc@gmail.com</a></strong></p>
+  <p><strong>Phone: <a href="tel:+19193978162">919-397-8162</a></strong></p>
+  <p><strong>LinkedIn: <a href="https://www.linkedin.com/in/divesh-anchaliya-1828591ab/">LinkedIn Profile</a></strong></p>
+  <p><strong>GitHub: <a href="https://github.com/danchaliya">GithubProfile</a></strong></p>
+  <p><strong>LeetCode: <a href="https://leetcode.com/DiveshAnchaliya/">LeetCodeProfile</a></strong></p>
+</section>
+ 
         </section>
       </main>
 
