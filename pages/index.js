@@ -217,7 +217,7 @@ Helped incoporate the use of MongoDB into the backend</p>
     <ul>
       <li><a href="https://www.youtube.com/watch?v=YoHD9XEInc0" target="_blank" rel="noopener noreferrer">Inception</a></li>
       <li><a href="https://www.youtube.com/watch?v=lB95KLmpLR4" target="_blank" rel="noopener noreferrer">Social Network</a></li>
-      <li><a href="https://www.youtube.com/watch?v=VyHV0BRtdxo target="_blank" rel="noopener noreferrer">Harry Potter and the Sorcerer's Stone</a></li>
+      <li><a href="https://www.youtube.com/watch?v=VyHV0BRtdxo" target="_blank" rel="noopener noreferrer">Harry Potter and the Sorcerer's Stone</a></li>
     </ul>
 
     <h3>Favorite TV Shows</h3>
