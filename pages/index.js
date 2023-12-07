@@ -296,14 +296,12 @@ Helped incoporate the use of MongoDB into the backend</p>
     <a href="[link to STS 1100 syllabus]" target="_blank" rel="noopener noreferrer">
       <h3>STS 1100: Intro to Statistical Reasoning</h3>
     </a>
-  </div>
-  <div class="course-card">
-    <a href="[link to ECO 3130 syllabus]" target="_blank" rel="noopener noreferrer">
-     <h3>ECO 3130: Federal Reserve Challenge</h3>
+ <div class="course-card">
+  <a href="[link to ECO 3130 syllabus]" target="_blank" rel="noopener noreferrer">
+    <h3>ECO 3130: Federal Reserve Challenge</h3>
   </a>
-  </div>
-  
-        </section>
+</div>
+  </section>
 <section id="fun-stuff" className="project-card">
     <h2>Fun Stuff</h2>
     
