@@ -262,7 +262,7 @@ Helped incoporate the use of MongoDB into the backend</p>
           <p>Phone: <a href="tel:+19193978162">919-397-8162</a></p>
           <p> LinkedIn: <a href="https://www.linkedin.com/in/divesh-anchaliya-1828591ab/">LinkedIn Profile</a></p>
           <p> GitHub: <a href="https://github.com/danchaliya">GithubProfile</a></p>
-         <p>LeetCode: <a href="https://leetcode.com/DiveshAnchaliya/"LeetCodeProfile</a></p>
+         <p>LeetCode: <a href="https://leetcode.com/DiveshAnchaliya/">LeetCodeProfile</a></p>
         </section>
       </main>
 
