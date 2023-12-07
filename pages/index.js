@@ -239,7 +239,7 @@ Helped incoporate the use of MongoDB into the backend</p>
 
         <section id="contact" className="contact">
           <h2>Contact Me</h2>
-          <p>Please let me know if you have any further questions or if there is anything else I can assist you with.</p> 
+          <p>Please let me know if you have any further questions or if there is anything else I can assist you with. I hope that you ahve a wonderful day/night!</p> 
           <form id="contact-form">
   <input type="text" id="name" name="name" placeholder="Name" required />
   <input type="email" id="email" name="email" placeholder="Email" required />
