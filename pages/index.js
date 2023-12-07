@@ -176,7 +176,7 @@ export default function Home() {
   </div>
           <div className="project-card">
   <a href="https://github.com/danchaliya/KiddyKam---PennApps" target="_blank" rel="noopener noreferrer">
-    <h3>Project 2: KiddyKam</h3>
+    <h3>Project 2: KiddyKam @ PennApps</h3>
   </a>
   <h4>Software Engineer</h4>
   <p>[Description of the KiddyKam project.]</p>
@@ -184,10 +184,10 @@ export default function Home() {
 
         <div className="project-card">
   <a href="https://github.com/danchaliya/HerdsWallet" target="_blank" rel="noopener noreferrer">
-    <h3>Project 3: HerdsWallet</h3>
+    <h3>Project 3: HerdsWallet @ HackaBull</h3>
   </a>
   <h4>Creator and Software Engineer</h4>
-  <p>Created the idea of a financial tracking app and worked with a team of 4 to create an application in 36 hours for the 2023 Hackabull Hackaton at the University of South Florida.  
+  <p>Created the idea of a financial tracking app and worked with a team of 4 to create an application in 36 hours for the 2023 Hackabull Hackathon at the University of South Florida.  
 Created the front-end in JavaScript and TypeScript
 Helped with routing the backend to the frontend
 Helped incorporate the use of MongoDB into the backend</p>
@@ -195,7 +195,7 @@ Helped incorporate the use of MongoDB into the backend</p>
 
   <div className="project-card">
     <a href="https://github.com/danchaliya/ZenZone" target="_blank" rel="noopener noreferrer">
-            <h3>Project 4:ZenZone </h3>
+            <h3>Project 4:ZenZone @ PhillyCodefest </h3>
   </a>
             <h4> Creator and Software Engineer</h4>
             <p>Created the idea of a guided meditation app and worked with a team of 4 to create an application in 48 hours
