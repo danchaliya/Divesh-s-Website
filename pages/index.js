@@ -114,6 +114,27 @@ export default function Home() {
     </a>
     <p>React is an open-source, front-end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.</p>
   </div>
+    <div className="skill-card">
+  <a href="https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf" target="_blank" rel="noopener noreferrer">
+    <h3>C</h3>
+  </a>
+  <p>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.</p>
+</div>
+
+<div className="skill-card">
+  <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    <h3>C++</h3>
+  </a>
+  <p>C++ is a highly portable language and is often the language of choice for multi-device, multi-platform app development. It is an extension of the C language with an emphasis on object-oriented programming.</p>
+</div>
+
+<div className="skill-card">
+  <a href="https://developer.arm.com/architectures/learn-the-architecture/assembly-language" target="_blank" rel="noopener noreferrer">
+    <h3>Assembly Language</h3>
+  </a>
+  <p>Assembly language is a low-level programming language for a computer, or other programmable device specific to a particular computer architecture in contrast to most high-level programming languages.</p>
+</div>
+
 
   <div className="skill-card">
     <a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
@@ -196,7 +217,7 @@ Helped incoporate the use of MongoDB into the backend</p>
     <ul>
       <li><a href="https://www.youtube.com/watch?v=YoHD9XEInc0" target="_blank" rel="noopener noreferrer">Inception</a></li>
       <li><a href="https://www.youtube.com/watch?v=lB95KLmpLR4" target="_blank" rel="noopener noreferrer">Social Network</a></li>
-      <li><a href="https://www.youtube.com/watch?v=CHekzSiZjrY" target="_blank" rel="noopener noreferrer">Titanic</a></li>
+      <li><a href="https://www.youtube.com/watch?v=VyHV0BRtdxo target="_blank" rel="noopener noreferrer">Harry Potter and the Sorcerer's Stone</a></li>
     </ul>
 
     <h3>Favorite TV Shows</h3>
@@ -205,6 +226,12 @@ Helped incoporate the use of MongoDB into the backend</p>
       <li><a href="https://www.youtube.com/watch?v=d6kBeJjTGnY" target="_blank" rel="noopener noreferrer">Hunter x Hunter</a></li>
       <li><a href="https://www.youtube.com/watch?v=69V__a49xtw" target="_blank" rel="noopener noreferrer">Silicon Valley</a></li>
     </ul>
+<h3>Favorite Songs</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=MoN9ql6Yymw" target="_blank" rel="noopener noreferrer">Daylight by David Kushner</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_XG3h6LywNQ" target="_blank" rel="noopener noreferrer">Für Elise by Beethoven</a></li>
+  <li><a href="https://www.youtube.com/watch?v=vzjUs5yR68o" target="_blank" rel="noopener noreferrer">Slow Dancing in the Dark by Joji</a></li>
+</ul>
 
     <h3>Favorite Sports</h3>
     <p>While I enjoy watching a variety of sports, playing tennis is my favorite way to stay active and competitive.</p>
