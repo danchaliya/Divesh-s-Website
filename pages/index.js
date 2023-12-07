@@ -37,22 +37,23 @@ export default function Home() {
           
         </section>
         
-        <section id="skills" className="skills">
-          <h2>Skills</h2>
-          <ul>
-            <li>Python</li>
-            <li>Java</li>   
-            <li>Go</li> 
-            <li>JavaScript</li>            
-            <li>TypeScript</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Node.js</li>            
-            <li>React</li>
-            <li>Flask</li>
-            <li>API Integrations</li>
-          </ul>
-        </section>
+<section id="skills" className="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li><a href="https://www.python.org" target="_blank" rel="noopener noreferrer">Python</a></li>
+    <li><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">Java</a></li>
+    <li><a href="https://golang.org" target="_blank" rel="noopener noreferrer">Go</a></li>
+    <li><a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">JavaScript</a></li>
+    <li><a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">TypeScript</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">CSS</a></li>
+    <li><a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">Node.js</a></li>
+    <li><a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">React</a></li>
+    <li><a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">Flask</a></li>
+    <li><a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noopener noreferrer">API Integrations</a></li>
+  </ul>
+</section>
+
 
       <section id="projects" className="projects">
   <h2>Recent Projects</h2>
