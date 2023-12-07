@@ -36,23 +36,24 @@ export default function Home() {
            <a href="https://docs.google.com/document/d/14_sppW_jSBi4qQUKHFRjj-70wWxE8m-5b6XeIjCFcGQ/edit?usp=sharing" target="_blank" className="bubble-button">Download My Resume</a>
           
         </section>
-        
 <section id="skills" className="skills">
   <h2>Skills</h2>
   <ul>
-    <li><a href="https://www.python.org" target="_blank" rel="noopener noreferrer">Python</a></li>
-    <li><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">Java</a></li>
-    <li><a href="https://golang.org" target="_blank" rel="noopener noreferrer">Go</a></li>
-    <li><a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">JavaScript</a></li>
-    <li><a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">TypeScript</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">CSS</a></li>
-    <li><a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">Node.js</a></li>
-    <li><a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">React</a></li>
-    <li><a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">Flask</a></li>
-    <li><a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noopener noreferrer">API Integrations</a></li>
+    <li><a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Python</a></li>
+    <li><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Java</a></li>
+    <li><a href="https://golang.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Go</a></li>
+    <li><a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>JavaScript</a></li>
+    <li><a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>TypeScript</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>CSS</a></li>
+    <li><a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Node.js</a></li>
+    <li><a href="https://reactjs.org" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>React</a></li>
+    <li><a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Flask</a></li>
+    <li><a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>API Integrations</a></li>
+    <li><a href="https://www.youtube.com/watch?v=bf2LpPr88SQ" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 'bold' }}>Public Speaking</a></li>
   </ul>
 </section>
+
 
 
       <section id="projects" className="projects">
