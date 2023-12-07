@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header title="Divesh Anchaliya | Computer Science & Mathematics on the Pre-Law track" />
+      <Header title="Divesh Anchaliya | Computer Science & Mathematics (Pre-Law)" />
 
       {/* Menu */}
       <nav class>
