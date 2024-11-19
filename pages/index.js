@@ -42,7 +42,7 @@ export default function Home() {
      <section id="about" className="about">
           <h2>About Me</h2>
           <p>
-            My name is Divesh Anchaliya, and I am a sophomore at Elon University majoring in Computer Science and Mathematics on the Pre-Law track.
+            My name is Divesh Anchaliya, and I am a junior at Elon University majoring in Computer Science and Mathematics on the Pre-Law track.
             I am aspiring to attend Law School and to specialize in Patent and Intellectual Property Law. 
             I have a passion for coding, solving complex problems, engaging in mathematical research, and playing tennis. 
             I am constantly seeking out new learning opportunities and experiences to further my understanding of technology and its applications.
